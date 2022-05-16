@@ -5,8 +5,8 @@ public class Basiccommands {
 		int y=11;
 		  ++y;
 		System.out.println(y);  //postfix increment operator  //11  11 
-		
-		 
+		++y;
+		 System.out.println("After adding new"+y);
 		 
  		
 
